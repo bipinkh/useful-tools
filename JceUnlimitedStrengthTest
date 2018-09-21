@@ -1,6 +1,8 @@
 
 import javax.crypto.Cipher;
 
+//special thanks to https://gist.github.com/evaryont/6786915 for the reference
+
 class JceUnlimitedStrengthTest {
     public static void main(String[] args) {
         try {
